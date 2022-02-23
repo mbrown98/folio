@@ -34,8 +34,10 @@ import bolt from "../assets/bolt.png";
 import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
+import bitmoji from "../assets/bitmoji.png";
 
 export default {
+  bitmoji,
   email,
   mobile,
   api,
